@@ -1,8 +1,9 @@
 <h1 align="center">Hi ✌️, I'm Felipe Vieira</h1>
+<p align="center"> Full Stack Developer</p>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"> </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
+    
 
 # 💫 About Me:
 
@@ -19,7 +20,7 @@ I am deeply passionate about continuous learning and embrace opportunities for p
 <a href="https://www.linkedin.com/in/luizfelipevieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-----
 
 # 💻 Tech Stack:
 ### Programming Languages:
@@ -47,17 +48,15 @@ I am deeply passionate about continuous learning and embrace opportunities for p
 
 
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-----
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVieir4&theme=react&hide)
 ![](https://github-readme-stats.vercel.app/api?username=FelipeVieir4&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FelipeVieir4&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-----
